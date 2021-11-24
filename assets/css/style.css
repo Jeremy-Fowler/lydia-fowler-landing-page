@@ -526,7 +526,7 @@ section {
   color: #82909c;
 }
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("https://i.imgur.com/u5PIe2v.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
